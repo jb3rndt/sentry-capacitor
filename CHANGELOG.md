@@ -6,6 +6,14 @@
 > [migration guide](https://docs.sentry.io/platforms/javascript/guides/capacitor/migration/) first.
 <!-- prettier-ignore-end -->
 
+## Unreleased
+
+### Dependencies
+
+- Bump Android SDK from v8.35.0 to v8.55.0 ([#1](https://github.com/jb3rndt/sentry-capacitor/pull/1))
+  - [changelog](https://github.com/getsentry/sentry-java/blob/main/CHANGELOG.md#8550)
+  - [diff](https://github.com/getsentry/sentry-java/compare/8.35.0...8.55.0)
+
 ## 3.2.0
 
 ### Fixes
